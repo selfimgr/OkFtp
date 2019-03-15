@@ -18,6 +18,3 @@ implementation 'com.chaowen.util:okftp:1.0'
  ftp.connect("ip","userName","password");
  ftp.downloadFile("serverFilePath","local File Path");
 ```
-
-
-
